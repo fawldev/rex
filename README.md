@@ -2,7 +2,7 @@
 
 simple web server written in rust
 
-```
+```rust
 mod rex; mod http;
 
 fn main() {
